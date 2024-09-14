@@ -11,4 +11,4 @@ This is my [shiny for python][shiny] playground hosted on [github pages][github]
 [py-shinylive]: https://github.com/posit-dev/py-shinylive
 
 <!-- Local Links -->
-[myapp]: site/index.html
+[myapp]: https://lmkawakami.github.io/shiny_python_pages/site/myapp/index.html
